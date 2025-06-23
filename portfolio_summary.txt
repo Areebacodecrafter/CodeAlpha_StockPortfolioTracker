@@ -1,0 +1,5 @@
+Stock Portfolio Summary:
+TSLA: 2 shares × $250 = $500
+AAPL: 3 shares × $180 = $540
+
+Total Investment: $1040
